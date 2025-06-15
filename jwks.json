@@ -9,13 +9,12 @@
       "n": "z_IfFtGI1nxyTCZOT_2ANDlEjRJoGgzs_M7o3Z0Oolh0N7rm-3-wDbxWjXuarE-xn5mpr5oo0KWz27s0VPx63KvjwnQ-NZYBH5brlJWLDhIwj9f0Qg1RTetDj-KOCc1sN_8JyZEDJBgGqo0_9Ge6DL_XKFkpGi6Ziif0Tijy8qBGcUk_rSSTM8yz51ky00IbA1y987lRNjkgQDjQW9vGgqG3Wl-VqdAkdEeg7_CIut7msH2JjBuadEBNHDbVG2ETBaeXIyTKtyESp_ub7uO2fbcg5Ohckr1RccSXADNgw89ViOsdR3O__G9orDXwTi8ZKIJji-ErdJHQTqhbrKtShQ"
     },
     {
-      "kty": "EC",
-      "use": "sig",
-      "crv": "P-256",
-      "kid": "test-1",
-      "x": "3XuJwJbWfCpVJ01Zf-ImPJFzBRZTBKYNRHm9MrFHbIA",
-      "y": "Xcy3aqJ6q2WsD0FoG5GGwPl8n3eelXSR5iAyOk5g04M",
-      "alg": "ES256"
+    "kty": "RSA",
+    "e": "AQAB",
+    "use": "sig",
+    "kid": "test-2",
+    "alg": "RS256",
+    "n": "pW9lhPLtt_dgmVYWFmk0OHrXYGMgp1LrIu7XAelP8SPe82Z-y_c0asWjtrv7OMSkCHmQwTb9AVe4asZ90CdPhjNCBPu1Kc6OdY7zGyy2dYiUJ_3bkObf8VE2rqE0UzFtGO5YE2nPK3XMOCxy1GlQOpzTHys7Jm6e8ZQmCr4RcCgQVyipVstovHt0HIemUd0I6hXIFel_lLdOLNGBOJCQKJD3ivUsoSW2lo7_8O4uKcw_GMtTyQ9VUGX5dCZ5Dww84A4v2LsLel2IZIzfJyyboSIMbRC65HCCcTvRK2z-Ve21MMiUOkOSH0683kV8EmiUXsOhCiID1aChvg7jHAdWww"
     }
   ]
 }
