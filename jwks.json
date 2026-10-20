@@ -7,6 +7,15 @@
       "kid": "5b8cb27b7e4590fb",
       "use": "sig",
       "alg": "RS256"
+    },
+    {
+      "kty": "EC",
+      "use": "sig",
+      "alg": "ES256",
+      "kid": "Dy4Z7C59p7GyjQqE6Bm2T21B60PGxtUMAWIkCDgHGo8",
+      "crv": "P-256",
+      "x": "BfZOP4W-s1C_uBBfaMxFmzsGQa67f5_5IrewTVNFc2g",
+      "y": "dBlr1D9TEs77khKjeBfqZ_LALJhFAMtoe_5OO04Ju6Y"
     }
   ]
 }
