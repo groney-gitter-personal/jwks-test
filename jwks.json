@@ -8,6 +8,14 @@
       "crv": "P-256",
       "x": "BfZOP4W-s1C_uBBfaMxFmzsGQa67f5_5IrewTVNFc2g",
       "y": "dBlr1D9TEs77khKjeBfqZ_LALJhFAMtoe_5OO04Ju6Y"
-    }
+    },
+    {
+  "kty": "RSA",
+  "n": "9WDphZL_WNi6atZMRGjLWhLNSIHSbdJ3uFzOiiGrFtMvk2YlW_lLEORQNqhcF8jrvQw_QTZqY2pFoYIFK3Awj2Nq5Z2eBGYJyLFkvOCAq7Ebf2Cs9hrOLmEcToMATcxfziLjF34L7iSemIB_dEPmCXiCBfpxbeaQwaIQciMQ4z9avXfNhF6Zo0lm2E9z8i8tjrdhtJr_JNxLpjtiqbS-lRP7GE4uUoVaUQ7ybUtZsK5I7yFPDvksGLBXTAGevP6-qFuwCrCdeucqOtQ4wmfYFn29W44cPPQRfi7930xqF7egSeLIkj_dk-auERHv_WMQbt1f4rjDrp3TWMPExJO8Iw",
+  "e": "AQAB",
+  "kid": "key-2",
+  "use": "sig",
+  "alg": "RS256"
+}
   ]
 }
